@@ -15,7 +15,30 @@ you review your day without productivity scores or judgments.
 
 ![PebbleTape settings shown with isolated test data](screenshots/recording-settings.png)
 
-## What you can do
+## Download the 1.0.2 test build
+
+**The program is publicly downloadable. The application source code remains private.**
+No GitHub account is needed to download the installer.
+
+- **[Download PebbleTape 1.0.2 for Windows x64](https://github.com/adrovo-max/PebbleTape-showcase/releases/download/v1.0.2/PebbleTape-1.0.2-Setup-x64.exe)**
+- [Installation steps, changes, limitations, and SHA-256](https://github.com/adrovo-max/PebbleTape-showcase/releases/tag/v1.0.2)
+
+Version 1.0.2 is an **unsigned prerelease**, not a stable production release.
+It adds calendar notes with pictures and refines day/night controls and table repainting.
+Exit Native Preview from its tray menu before running the installer. Keep backups
+and try nonessential notes first. Do not disable Windows security to install it.
+
+It installs separately as **PebbleTape Native Preview**. Its test data is stored
+in `%LOCALAPPDATA%\HandyPebble\PebbleTapeNativePreview\vault`. It does not
+migrate or synchronize the old app's data. The installer is approximately 490 KiB;
+the older 0.2.0 runtime and installation details below do not describe this build.
+Clean-machine installation and extended everyday use still need hands-on testing.
+
+Download the `.exe` under **Assets**, not GitHub's automatic "Source code" archives.
+Those archives contain only this public showcase's documentation and images,
+not the PebbleTape application source code.
+
+## Version 0.2.0: what you can do
 
 - Record application intervals and review previous days.
 - Search and filter entries, see application totals, and save encrypted notes.
@@ -35,7 +58,7 @@ Export, automatic history cleanup, and automatic launch at Windows sign-in are
 not included yet. Application time describes the foreground window, not effort
 or accomplishment.
 
-## Install or update
+## Version 0.2.0: install or update
 
 For Windows 10 or Windows 11, x64. The approximately 52 MB installer includes
 the runtime and database components; no separate .NET or database-server setup
@@ -73,7 +96,7 @@ product.
 
 This is the official **public product showcase**, not a source-code repository.
 It contains only product information, release notes, and a screenshot made with
-isolated test data. Installers are hosted on HandyPebble, not in this repository.
+isolated test data. The 1.0.2 test installer is available in GitHub Releases here. The older 0.2.0 installer remains hosted on HandyPebble.
 
 **Source code is not publicly available. Proprietary software. All rights reserved.**
 
