@@ -15,7 +15,31 @@ you review your day without productivity scores or judgments.
 
 ![PebbleTape settings shown with isolated test data](screenshots/recording-settings.png)
 
-## Download the 1.0.2 test build
+## Download the 1.0.3 test build
+
+**Public installer, private application source. No GitHub account needed to download.**
+
+- **[Download PebbleTape 1.0.3 for Windows 10/11 x64](https://github.com/adrovo-max/PebbleTape-showcase/releases/download/v1.0.3/PebbleTape-1.0.3-Setup-x64.exe)**
+- [Installation instructions, verification, limitations, and checksum](https://github.com/adrovo-max/PebbleTape-showcase/releases/tag/v1.0.3)
+
+This update keeps the full desktop navigation and calendar/list/editor workspace,
+opens in a normal window without automatically maximizing, and applies language
+changes without restarting. New setups follow the Windows display language;
+you can choose another language or return to Automatic in Settings.
+
+Save your notes and exit Native Preview from its tray menu before installing.
+This updates the native 1.0.2 preview while keeping its native data folder. The
+older 0.2.0 app remains separate. Keep backups during testing.
+
+This is an **unsigned test build**, not a stable release. Component tests and
+repeated application checks passed; physical monitor-DPI transitions, complete
+visual acceptance and clean-machine installation remain unverified. Do not
+disable Windows security to install it.
+
+Choose the `.exe` under Assets. GitHub's automatic Source code archives contain
+this public showcase's documentation, not the proprietary application source.
+
+## Previous 1.0.2 test build
 
 **The program is publicly downloadable. The application source code remains private.**
 No GitHub account is needed to download the installer.
@@ -96,7 +120,7 @@ product.
 
 This is the official **public product showcase**, not a source-code repository.
 It contains only product information, release notes, and a screenshot made with
-isolated test data. The 1.0.2 test installer is available in GitHub Releases here. The older 0.2.0 installer remains hosted on HandyPebble.
+isolated test data. Native test installers are available in GitHub Releases here. The older 0.2.0 installer remains hosted on HandyPebble.
 
 **Source code is not publicly available. Proprietary software. All rights reserved.**
 
