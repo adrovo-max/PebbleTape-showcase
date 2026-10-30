@@ -15,7 +15,25 @@ you review your day without productivity scores or judgments.
 
 ![PebbleTape settings shown with isolated test data](screenshots/recording-settings.png)
 
-## Download the 1.0.3 test build
+## Download the 1.0.4 test build
+
+**Public installer, private application source. No GitHub account needed to download.**
+
+- **[Download PebbleTape 1.0.4 for Windows 10/11 x64](https://github.com/adrovo-max/PebbleTape-showcase/releases/download/v1.0.4/PebbleTape-1.0.4-Setup-x64.exe)**
+- [Installation instructions, testing limits, and checksum](https://github.com/adrovo-max/PebbleTape-showcase/releases/tag/v1.0.4)
+
+Read farther down your activity history without automatic refresh jumping back
+to the top. The selected record also stays selected when new entries arrive or
+application rankings change. If a refresh fails, the displayed records stay in
+place and an error explains what happened.
+
+Save your notes and exit Native Preview from its tray menu before installing.
+Setup updates the existing native preview and keeps its native vault. Keep a
+backup during testing. This is an **unsigned test build**; physical scrolling
+and visual acceptance, clean-machine installation, and extended everyday use
+still need hands-on testing. Do not disable Windows security to install it.
+
+## Previous 1.0.3 test build
 
 **Public installer, private application source. No GitHub account needed to download.**
 

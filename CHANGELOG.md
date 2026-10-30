@@ -1,4 +1,13 @@
 # PebbleTape release notes
+## 1.0.4 test build — October 30, 2026
+
+- Keep your reading position when activity history refreshes automatically.
+- Keep the same record selected when new entries arrive or application rankings change.
+- Leave displayed records in place and show an error if a refresh fails.
+
+[Download and read the installation and testing notes](https://github.com/adrovo-max/PebbleTape-showcase/releases/tag/v1.0.4).
+This unsigned prerelease still needs hands-on scrolling, visual, and clean-machine acceptance.
+
 ## 1.0.3 test build — October 30, 2026
 
 - Keep the desktop sidebar and calendar, note list, and editor together.
